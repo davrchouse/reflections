@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+You need to initialize a repository to create a hidden git folder that will store and be able to track all your previous file verions as commits. However, it does not automatically create an initial commit.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area is different from the working directory because it lets you choose just what files you want to commit. The repository is different because it contains not just your latest commit, but all the previous ones too (sometimes with different sets of files). The staging area lets you choose totally different sets of files on different commits. 
