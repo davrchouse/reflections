@@ -4,4 +4,9 @@ You need to initialize a repository to create a hidden git folder that will stor
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
-The staging area is different from the working directory because it lets you choose just what files you want to commit. The repository is different because it contains not just your latest commit, but all the previous ones too (sometimes with different sets of files). The staging area lets you choose totally different sets of files on different commits. 
+The staging area is different from the working directory because it lets you choose just what files you want to commit. The repository is different because it contains not just your latest commit, but all the previous ones too (sometimes with different sets of files). The staging area lets you choose totally different sets of files on different commits and choose just the files you need for each logical change commit.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+You can just add those files that correspond to the logical change. Then make the commit and repeat the process for the next change.
+
