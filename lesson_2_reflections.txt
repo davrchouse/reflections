@@ -10,3 +10,7 @@ How can you use the staging area to make sure you have one commit per logical ch
 
 You can just add those files that correspond to the logical change. Then make the commit and repeat the process for the next change.
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Branches are helpful when you want to try out a different version without worrying about messing with your original (like another language or an experimental feature). This allows you to modify and experiment with versions in the new branch without having to change your master branch and even merge those features with the master branch later if you want.
+
