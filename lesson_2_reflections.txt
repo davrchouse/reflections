@@ -17,3 +17,7 @@ Branches are helpful when you want to try out a different version without worryi
 How do the diagrams help you visualize the branch structure?
 
 The diagrams allow you to quickly see how all the alternate versions/features are in progress and how long ago / how many changes have occured on the master branch since an alternate branch was created and modified over time.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Merging two branches allows you to combine features and updates from two different version histories into one.  You get a new version with all of the adds and deletions from both of the merging branches.  It is represented in the diagram because it is the merging of the last commits as its 2 parents.
