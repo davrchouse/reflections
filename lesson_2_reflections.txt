@@ -21,3 +21,7 @@ The diagrams allow you to quickly see how all the alternate versions/features ar
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 Merging two branches allows you to combine features and updates from two different version histories into one.  You get a new version with all of the adds and deletions from both of the merging branches.  It is represented in the diagram because it is the merging of the last commits as its 2 parents.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Automatic merges are much quicker than going through and adding all the merges manually but they can result in conficts that need to be resolved. Git recognizes nearby changes as conflicts and will point them out before merging. 
