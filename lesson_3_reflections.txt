@@ -1,1 +1,3 @@
 When would you want to create a remote repository rather than keeping all your work local?
+
+A remote repository is a good idea when you want to collaborate with lots of other people on a project that may be working in different locations and at different times.  It gives others access to the same files and offers the opportunity for them to make new branches and add commits to update the project.
