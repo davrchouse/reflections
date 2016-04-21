@@ -1,3 +1,7 @@
 When would you want to create a remote repository rather than keeping all your work local?
 
 A remote repository is a good idea when you want to collaborate with lots of other people on a project that may be working in different locations and at different times.  It gives others access to the same files and offers the opportunity for them to make new branches and add commits to update the project.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+Manually pulling from Github allows you to choose which commits/changes that others have made before adding them to your own local version. Automatic updates to your local version from the remote repository could result in features and updates that you don't want for your own version of the files.
