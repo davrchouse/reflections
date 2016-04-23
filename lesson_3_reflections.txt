@@ -9,3 +9,7 @@ Manually pulling from Github allows you to choose which commits/changes that oth
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
 Forks are way to copy someone's repository from their Github page to yours, allowing you to make changes to the files but still giving them credit for the original file versions. Clones, in contrast, are a way to copy someone's repository (including your own) from Github to your local computer or from one place on your local computer to another. Branches are a way to create an alternate pathway of versions from the same master branch, perhaps to work on a new feature or alter the versions in a new direction without breaking the main master version. Branches can be merged back into the master branch or with other branches later.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+A local copy of the last known state of the remote allows you to compare and merge commits while not online and, after you make even more of your own commits, it helps you remember where you left off with your collaborators beforehand.
