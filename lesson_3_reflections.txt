@@ -13,3 +13,8 @@ Forks are way to copy someone's repository from their Github page to yours, allo
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 A local copy of the last known state of the remote allows you to compare and merge commits while not online and, after you make even more of your own commits, it helps you remember where you left off with your collaborators beforehand.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Without Git or Github you could collaborate by keeping track of your own changes step by step and saving your different versions yourself, then contacting your collaborators when you want to merge versions to make sure all goes smoothly.  Github makes it easier to keep a record of all the changes you or colleagues make by listing them all in one place, by more easily keeping track of multiple branches of versions, and by automatically recognizing changes in files that you want to merge. Github might make it harder for merges that may be complicated or conflicting and that might better be better communicated by way of talking directly instead of short messages through Github.
+
